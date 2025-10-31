@@ -1,4 +1,3 @@
 package model;
 
-public class Deltas {
-}
+public record Deltas(double caixaDelta, int reputacaoDelta, int moralDelta, double bonusDelta) { }
