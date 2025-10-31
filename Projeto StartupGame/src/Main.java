@@ -1,7 +1,7 @@
-import ui.ConsoleAPP;
+import ui.ConsoleApp;
 
 public class Main {
     public static void main(String[] args) {
-        new ConsoleAPP().start();
+        new ConsoleApp().start();
     }
 }
