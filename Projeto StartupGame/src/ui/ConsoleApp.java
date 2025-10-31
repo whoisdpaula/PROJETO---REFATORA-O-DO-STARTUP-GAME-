@@ -2,7 +2,7 @@ package ui;
 
 import config.Config;
 
-public class ConsoleAPP {
+public class ConsoleApp {
     private final Config config = new Config();
 
     public void start(){
